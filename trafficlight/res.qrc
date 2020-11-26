@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>light1.ico</file>
+    </qresource>
+</RCC>
